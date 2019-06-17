@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>学习方法—玩转数据结构第一次结课小结</title>
+      <link href="/2019/06/18/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
+      <url>/2019/06/18/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<p>在慕课网学完了<a href="https://coding.imooc.com/class/207.html" target="_blank" rel="noopener">玩转数据结构</a>这门课，粗略地过了一遍，自己的算法和编程没有成长多少，倒是被作者一篇关于学习方法总结的文章—<a href="https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247483836&idx=1&sn=90854aa76507281403e4dd9cd434a12b&chksm=fd8caefacafb27ec78f999fde4f1217c04c6e2ff28cf51fe511d8fa29d484d9281ff91de8c9c&token=88683563&lang=zh_CN#rd" target="_blank" rel="noopener">如果高效学习有什么秘诀的话，那就都在这里了：）</a>给吸引住了。想想自己学习中走的弯路，感觉字字诛心，后悔没有早看到这篇文章。为了给自己长记性，特此把其中的几点记录下来，常看常思，避免重蹈覆辙。</p><a id="more"></a><h1 id="1）不要完美主义！"><a href="#1）不要完美主义！" class="headerlink" title="1）不要完美主义！"></a>1）不要完美主义！</h1><p>我观察到的大多数同学犯得最最最最大的“错误”，就是在学习上“完美主义”。乃至后续很多其他的问题，在我看来都和这个问题是直接相关的。<strong>不要完美主义！不要完美主义！不要完美主义！重要的事情说三遍。</strong></p><p>举个最经典的例子，也是我经常举的例子，背英语单词（在这里我们先不聊背英语单词是不是好的英语学习方法，我们只看如果我们想要背英语单词的话，应该怎么背）我发现很多同学拿着红宝书，第一个list都没翻过去就放弃了。这是因为每天背完第一个list以后，第二天会发现：第一个list还是有很多单词没掌握，然后就继续背第一个list。然后一周后，发现自己第一个list都搞不定，觉得英语好难，彻底放弃了。这就是“完美主义”：不把第一个list“彻底”掌握不肯继续前进。这样是不对的。背了一个list，能多记一个词，就是进步。就算一个词都没记住，模糊有了印象，也是一种进步。我们不应该过度着眼于我们还不够完美。<strong>学习不是要么0分，要么100分的。</strong> <strong>80分是收获；60分是收获；20分也是收获。有收获最重要。</strong> 但是因为着眼于自己的不完美，最终放弃了，那就是彻底的0分了。</p><p>仔细想，这种“完美主义害死人”的例子特别多。我看到过很多同学，其实是在学习的路上，被自己的“完美主义”逼得“放弃了”——由于学习中有一点没有做好，遭受到了一点点挫折，最终就放弃了整个学习计划。每个人都一定要接受自己的不完美。想开一点：我们都不是小升初考了满分，才能上初中的；也不是中考考了满分，才能读高中的；更不是高考考了满分，才能念大学的；将来也不会是大学所有科目都是满分，才能出来工作。<strong>不完美其实是常态</strong>，根本不会影响我们学习更多更深入的内容。<strong>但是在自学过程中，很多同学却要求自己在自己制定的每一步计划中都达到“完美”，才进行下一步。最终结果，通常都是“放弃”。</strong></p><p>可能有的同学会跳出来反驳我：学习当然要认真啊！在这里，我必须强调，我所说的“不要完美主义”，和“学习认真”是不冲突的。什么是“完美主义”，什么又是“囫囵吞枣”，这是一个“度”，每个人其实不一样。不要“完美主义”，不代表学习可以草率前行。每个人都必须要找到适合自己的学习节奏。</p><blockquote><p>我的经验是：在自己又因为自己的学习进度而沮丧的时候，问自己一句：是不是自己又犯“完美主义”的毛病了：）</p></blockquote><h1 id="2）不要过度“学习路径依赖”，学习要冲着自己的目标去。"><a href="#2）不要过度“学习路径依赖”，学习要冲着自己的目标去。" class="headerlink" title="2）不要过度“学习路径依赖”，学习要冲着自己的目标去。"></a>2）不要过度“学习路径依赖”，学习要冲着自己的目标去。</h1><p>现在信息太发达了，对于大多数领域的知识，网上会有很多所谓的“学习路径”。我不是说这些学习路径没有用，但是不能“过度”依赖这些所谓的学习路径。</p><p>比如，很多同学想学机器学习，大多数学习路径都会告诉你，机器学习需要数学基础。于是，很多同学就转而学习数学去了，非要先把数学学好再去学机器学习。可是发现数学怎么也学不好（在这里，可能完美主义的毛病又犯了），而机器学习却一点儿都没学。最终放弃了机器学习，非常可惜。其实，如果真正去接触机器学习，就会发现，至少在入门阶段，机器学习对数学的要求没有那么高。正因为如此，我一直建议：只要你在本科接触过高数，线数，概率这些科目的基础概念，想学机器学习，就去直接学习机器学习。学习过程中发现自己的数学不够用，再回头补数学。在这种情况下，数学学习得也更有目标性，其实效果更好。</p><p>类似这样的例子还有很多，很多同学想学习做ios  app，就先去精通swift语言，或者想做android  app，就先去精通java语言。在我看来大可不必。以我的经验，只要你有一门编译型语言基础，大概看一下这些语言的基础语法，就可以直接上手ios或者android   app的开发了。先能做出一个最基本的app，在这个过程中，就会意识到语言特性的意义，再回头深入研究语言也不迟。此时还能结合真实的开发任务去理解语言特性，比没有上手app开发，抽象地理解语言特性，有意义的多。</p><p>再比如，我的《算法与数据结构》课程和《玩转算法面试》课程，在视频中都是使用C++进行编码的。虽然我一再强调对于算法的学习，语言不重要，但还是有很多同学表示，要先把C++学透，再回来把课程中的算法学好。这是完全没必要的。事实上，在我的这两门课程中，我看到的收获最大的同学，是那些能够把课程中的算法思想理解清楚，然后用自己熟悉的语言去实现的同学：）</p><p>依然是：不要“过度”学习路径依赖，什么叫“过度”，每个人的标准不一样。每个人都需要寻找自己的那个“度”。</p><h1 id="3）实践！"><a href="#3）实践！" class="headerlink" title="3）实践！"></a>3）实践！</h1><p>前面说了很多和教材选择相关的话题，但对于计算机领域的学习来说，教材的意义其实远远小于实践的意义。如果仅仅是看学习材料就是学习的话，那么教学网站的视频后期处理人员就是水平最高的工程师了。因为每段视频，他们都需要看一遍。<strong>但是，很显然，仅仅是看视频，是无法学到知识的。对于计算机领域的学习来说，真正动手实践去编程是异常重要的。怎么夸大其中的作用都不过分。</strong>这就好比学游泳，必须下水去游泳；或者学开车，必须亲自上路。否则你说的再头头是道，一个小学生文化水平的人，只要他开过车，游过泳，都能在这两个领域瞬间秒杀你。</p><p>很多同学都说我的算法讲得好，其实，我一直认为，这其中的一个最简单的秘诀就是：我带领大家把大多数算法都非常细致的实现了一遍；或者对其中的应用进行了非常具体的实践。反观大多数高校教育，对于算法或者机器学习这种一定程度偏理论的学习，通常非常不强调实践。最终的结果是学习者只是接受了很多抽象的概念，但对其中具体的实现细节，却是云里雾里。我见过太多同学，都明白什么是O(n^2)复杂度，什么是O(nlogn)的复杂度，却问我对于100万的数据规模，为什么自己的选择排序运行起来就没反应了。答案很简单：O(n^2)的复杂度太慢了，100万的数据规模太大了，一般家用计算机转选择排序一时半会儿是转不完的。这些同学一定理解O(n^2)的算法比O(nlogn)的算法慢，却没有真正实践过，不知道这个差距到底是多少。</p><p>在我的课程中，经常遇到有些同学提出这样的问题：这个算法的某句话（或者某段逻辑），为什么要写成A的样子，而不是B的样子？这种问题其实很好，但我觉得解决方法也很简单，实际的去把算法改写成B的样子，实际的运行试试看，看会发生什么。如果发生了错误，仔细分析一下，为什么会有错误？如果没有错误，具体比较一下：A和B两种不同的写法，为什么都正确？又有什么区别？真正的学习上的提高，就发生在这个过程中。我当然可以告诉给同学们一个结果，但是自己亲自实践一遍，相比阅读我给出的一个答案，自己对其中问题理解的深刻程度，是完全不可比拟的。</p><h1 id="4）量变到质变。"><a href="#4）量变到质变。" class="headerlink" title="4）量变到质变。"></a>4）量变到质变。</h1><p>还有很多同学，对于算法的一些问题，会问：老师，你是怎么想到用这样的方法的？对于这类问题，我的回答一般都是：你见的还不够多。</p><p>不知道是不是受高中阶段学习的影响，<em>有一些同学特别执着于就着一个单一的问题，寻找其中的“解题路径”。</em>当然，我不是说这是完全错误的，但也有一个“度”。我的经验是：与其把时间花在这里，不如去见更多问题。比如动态规划，是算法学习的一个难点，很多同学在学会了背包问题的解法之后，总是执着于去追寻：是怎么想到这种状态定义的方法的。可能是我个人水平有限，我无法清楚地解释是如何想到这种状态定义的方法的。但是我的经验告诉我：再去看，去实践100个动态规划相关的问题，然后回头看背包问题，你会发现这种状态定义的方式非常自然。<strong>仅仅对着一个问题思考，很多时候都是死胡同。你见识的还不够多，就不足以帮助你总结出更加“普遍”的问题解决的规律。当你见得足够多的时候，一切就都变得很自然，所谓的“量变到质变”。</strong></p><p>不过，<strong>大多数同学在这个环节都会“犯懒”，企图通过一个问题就理解问题的本质，这其实和企图通过一本教材就精通一个领域的想法是一样的，是不现实的，不可能的。同时，这里又包含着学习过程中的“完美主义”的思想，遇到一个问题一定要把它想的无比透彻。</strong></p><blockquote><p>但是我的经验告诉我：大多数问题，其实都是需要“回头看”的。随着你对一个领域理解的越深入，回头再去看那些曾经的问题，都会产生新的视角，对于很多曾经想不明白的问题也豁然开朗。这也是“进步”的根源。如果卡在一个问题上不前进，不给自己“回头看”的机会，甚至最后是放弃了，就什么也没有学会了。</p></blockquote><p>所以，很多时候，你发现对一些问题“百思不得其解”，或许不是因为自己“笨”，而是因为“还不够努力”：）</p><p><strong>最后，一定要相信时间的力量。</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习方法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习方法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/06/12/hello-world/"/>
+      <url>/2019/06/12/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> hexo theme </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
